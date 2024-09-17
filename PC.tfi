@@ -1,0 +1,23 @@
+
+
+
+// Instantiate the module
+PC instance_name (
+    .jump_address(jump_address), 
+    .sign_extend_jump(sign_extend_jump), 
+    .branch(branch), 
+    .zero(zero), 
+    .sign_extend(sign_extend), 
+    .pc_src(pc_src), 
+    .PC_en(PC_en), 
+    .IorD(IorD), 
+    .alu_result(alu_result), 
+    .alu_out(alu_out), 
+    .immediate(immediate), 
+    .clk(clk), 
+    .rst(rst), 
+    .pc_out(pc_out), 
+    .adr(adr)
+    );
+
+

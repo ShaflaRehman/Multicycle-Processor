@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Multicycle_Processor -o C:/Users/sibgh/Desktop/Multicycle_Processor/Instruction_DataMemory.tfi -lib work C:/Users/sibgh/Desktop/Multicycle_Processor//Instruction_DataMemory.v -module Instruction_DataMemory -template C:/Xilinx/14.5/ISE_DS/ISE//data/tfi.tft -deleteonerror 

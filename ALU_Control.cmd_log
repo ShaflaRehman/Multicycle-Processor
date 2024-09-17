@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Multicycle_Processor -o C:/Users/sibgh/Desktop/Multicycle_Processor/ALU_Control.tfi -lib work C:/Users/sibgh/Desktop/Multicycle_Processor//ALU_Control.v -module ALU_Control -template C:/Xilinx/14.5/ISE_DS/ISE//data/tfi.tft -deleteonerror 

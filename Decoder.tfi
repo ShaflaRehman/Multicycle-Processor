@@ -1,0 +1,19 @@
+
+
+
+// Instantiate the module
+Decoder instance_name (
+    .state(state), 
+    .instruction(instruction), 
+    .rs(rs), 
+    .clk(clk), 
+    .rt(rt), 
+    .rd(rd), 
+    .shamt(shamt), 
+    .func(func), 
+    .opcode(opcode), 
+    .immediate(immediate), 
+    .jump_address(jump_address)
+    );
+
+

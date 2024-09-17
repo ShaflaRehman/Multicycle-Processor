@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+RegFile instance_name (
+    .regdst(regdst), 
+    .rs(rs), 
+    .rt(rt), 
+    .write_data(write_data), 
+    .memory_data(memory_data), 
+    .MemtoReg(MemtoReg), 
+    .RegWrite(RegWrite), 
+    .rd(rd), 
+    .read_data1(read_data1), 
+    .read_data3(read_data3), 
+    .read_data2(read_data2), 
+    .clk(clk)
+    );
+
+

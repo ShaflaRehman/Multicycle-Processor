@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+ALU_Control instance_name (
+    .op(op), 
+    .func(func), 
+    .alu_control(alu_control), 
+    .clk(clk)
+    );
+
+

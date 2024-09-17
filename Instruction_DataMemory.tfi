@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+Instruction_DataMemory instance_name (
+    .address(address), 
+    .instruction(instruction), 
+    .data(data), 
+    .clk(clk), 
+    .memwrite(memwrite), 
+    .irwrite(irwrite), 
+    .write_data(write_data)
+    );
+
+

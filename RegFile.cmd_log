@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Multicycle_Processor -o C:/Users/sibgh/Desktop/Multicycle_Processor/RegFile.tfi -lib work C:/Users/sibgh/Desktop/Multicycle_Processor//RegFile.v -module RegFile -template C:/Xilinx/14.5/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Multicycle_Processor -o C:/Users/sibgh/Desktop/Multicycle_Processor/ControlUnit.tfi -lib work C:/Users/sibgh/Desktop/Multicycle_Processor//ControlUnit.v -module ControlUnit -template C:/Xilinx/14.5/ISE_DS/ISE//data/tfi.tft -deleteonerror 

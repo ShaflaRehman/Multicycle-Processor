@@ -1,0 +1,7 @@
+verilog work "RegFile.v"
+verilog work "PC.v"
+verilog work "Instruction_DataMemory.v"
+verilog work "Decoder.v"
+verilog work "ALU_Control.v"
+verilog work "ALU.v"
+verilog work "top_module.v"

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Multicycle_Processor -o "F:/computer_engineering/FOURTH SEMESTER/CSA/project_xylinx/Multicycle_Processor/PC.tfi" -lib work "F:/computer_engineering/FOURTH SEMESTER/CSA/project_xylinx/Multicycle_Processor//PC.v" -module PC -template E:/xilinx/14.5/ISE_DS/ISE//data/tfi.tft -deleteonerror 
